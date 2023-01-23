@@ -1,0 +1,27 @@
+
+.sap{
+
+   display: grid;
+    grid-template-columns: repeat(3, 1fr);
+ 
+}
+.field{
+padding: 20px;
+border-radius: 8px;
+border: 1px solid gray;
+margin:8px;
+
+}
+
+
+.link{
+      color: white;
+      text-decoration: none;
+      background-color: green;
+      font-size: 16px;
+      font-weight: 400;
+      border: 1px solid green;
+      padding: 13px;
+      border-radius: 5px;
+      cursor: pointer;
+}
